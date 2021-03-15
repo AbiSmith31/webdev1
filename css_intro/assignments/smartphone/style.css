@@ -1,0 +1,179 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+body {
+    background-color:rgb(46, 43, 43);
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone {
+    display: flex;
+    flex-direction: column;
+    border-radius: 9%;
+    background-color: rgb(17, 17, 17);
+    margin-top: 15vmin;
+    margin-bottom: 15vmin; 
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+a:link, :visited {
+    text-decoration: none;
+    display: inline-block;
+    height: 4rem;
+    width: 4rem;
+}
+a:hover {
+    background-color: white;
+    border-radius: 20%;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    
+}
+.box-1 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-1.jpeg);
+    background-size: contain;
+}
+.box-2 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-1.png);
+    background-size: contain;
+}
+.box-3 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-7.jpeg);
+    background-size: contain; 
+}
+.box-4 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-2.jpeg);
+    background-size: cover;
+}
+.box-5 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-2.png);
+    background-size: cover;
+}
+.box-6 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-3.jpeg);
+    background-size: cover;
+}
+.box-7 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-4.jpeg);
+    background-size: cover;
+}
+.box-8 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-5.jpeg);
+    background-size: contain;
+}
+.box-9 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-6.jpeg);
+    background-size: cover;
+}
+.box-10 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images-7.jpeg);
+    background-size: contain;
+}
+.box-11 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images.jpeg);
+    background-size: cover;
+}
+.box-12 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/images.png);
+    background-size: contain;
+}
+.box-13 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-1.jpeg);
+    background-size: cover;
+}
+.box-14 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-2.jpeg);
+    background-size: cover;
+}
+.box-15 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-3.jpeg);
+    background-size: cover;
+}
+.box-16 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-4.jpeg);
+    background-size: cover;
+}
+.box-17 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-5.jpeg);
+    background-size: contain;
+}
+.box-18 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown-6.jpeg);
+    background-size: contain;
+}
+.box-19 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown.jpeg);
+    background-size: cover;
+}
+.box-20 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/Unknown.png);
+    background-size: contain;
+}
