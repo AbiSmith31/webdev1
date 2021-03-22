@@ -62,3 +62,25 @@ footer {
     margin-left: -10px;
     margin-right: -10px;
 }
+nav {
+    font-size: 60px;
+    display: block;
+    justify-content: center;  
+    list-style-type: none;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: rgb(70, 52, 70);
+    font-family: monospace;
+    font-size: 30px;
+    
+}
+a:hover {
+    color: thistle;
+    background-color: rgb(109, 69, 109);
+    border-radius: 25px;
+    padding: 10px; 
+}

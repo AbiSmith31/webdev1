@@ -29,6 +29,7 @@ body {
     height: 400px;
     width: 500px;
     right: 475px;
+    bottom: 5px;
     
 
 }
@@ -82,4 +83,26 @@ h4 {
     bottom: 610px;
     right: 90px;
 
+}
+nav {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;  
+    list-style-type: none;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: rgb(70, 52, 70);
+    font-family: monospace;
+    font-size: 30px;
+    
+}
+a:hover {
+    color: thistle;
+    background-color: rgb(109, 69, 109);
+    border-radius: 25px;
+    padding: 10px; 
 }
