@@ -1,0 +1,42 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+body {
+    background-color: teal;
+}
+h1 {
+    text-align: center;
+    color: thistle;
+    font-size: 100px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.box {
+    width: 1350px;
+    height: 50px;
+    background: rgb(70, 52, 70);
+    margin-top: 200px;
+
+    animation-name: move;
+    animation-duration: 5s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+}
+@keyframes move {
+    
+    0% {
+      background: purple;
+      transform: translate(-50%, -50%);
+      width: 0px;
+      height: 50px;
+    }
+    
+    100% {
+      background: rgb(216, 161, 216);
+      width: 1350px;
+      height: 50px;
+    }
+}
+  
+  

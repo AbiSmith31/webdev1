@@ -1,0 +1,33 @@
+* {
+    margin: 5px;
+    padding: 5px;
+}
+body {
+    background-color: teal;
+}
+h1 {
+    text-align: center;
+    color: thistle;
+    font-size: 150px;
+}
+nav {
+    font-size: 60px;
+    display: block;
+    justify-content: center;  
+    list-style-type: none;
+    padding: 100px;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: rgb(70, 52, 70);
+    
+}
+a:hover {
+    color: thistle;
+    background-color: rgb(109, 69, 109);
+    border-radius: 25px;
+    padding: 10px;
+}
+    
