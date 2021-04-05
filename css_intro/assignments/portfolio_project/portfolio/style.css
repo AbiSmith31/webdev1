@@ -3,13 +3,13 @@
     padding: 10px;
 }
 body {
-    background-color: rgb(138, 101, 138);
+    background-image: url(gifs/sparklecloud.gif);
 }
 h1 {
     font-family: 'Satisfy', cursive;
     text-align: center;
     font-size: 150px;
-    color:thistle;
+    color:rgb(129, 89, 129);
 }
 nav {
     font-size: 60px;
@@ -31,3 +31,8 @@ a:hover {
     border-radius: 25px;
     padding: 10px; 
 }
+.flowerbar {
+    margin-left: 275px;
+    width: 700px;
+}
+
