@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    background: rgb(240, 240, 166);
+    text-align: center;
+    font-family: cursive;
+    color: thistle;
+    font-size: 100px;   
+}
+body {
+    background: thistle;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 300px 300px 300px 300px;
+    grid-gap: 5rem;
+  } 
+  .grid-item {
+    background: lightpink;
+    font-family: cursive;
+    font-size: 3rem;
+  }
+  
