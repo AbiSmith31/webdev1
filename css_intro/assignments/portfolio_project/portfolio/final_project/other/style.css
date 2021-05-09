@@ -1,0 +1,212 @@
+* {
+    padding: 7.5px;
+    padding: 7.5px;
+}
+body {
+    background: rgb(198, 228, 238);
+}
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    font-family: cursive;
+    color:coral;
+    background-color: white;
+    margin-bottom: 0rem;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.phone {
+    display: flex;
+    flex-direction: column;
+    border-radius: 9%;
+    background-color: coral;
+    margin-top: -6vmin;
+    margin-bottom: 20vmin; 
+}
+.row {
+    display: flex;
+    flex-direction: row;
+}
+a:link, :visited {
+    text-decoration: none;
+    display: inline-block;
+    height: 4rem;
+    width: 4rem;
+}
+a:hover {
+    background-color: white;
+    border-radius: 20%;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+    
+}
+.box-1 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/bram.jpg);
+    background-size: contain;
+}
+.box-2 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/gooey.jpg);
+    background-size: contain;
+}
+.box-3 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/pbflecks.jpg);
+    background-size: contain; 
+}
+.box-4 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/lemonbar.jpg);
+    background-size: cover;
+}
+.box-5 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/lavendar.jpg);
+    background-size: cover;
+}
+.box-6 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/coldbrew.jpg);
+    background-size: cover;
+}
+.box-7 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/download-5.jpg);
+    background-size: cover;
+}
+.box-8 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/bluelemon.jpg);
+    background-size: contain;
+}
+.box-9 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/milkiest.jpg);
+    background-size: cover;
+}
+.box-10 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/darkest.jpg);
+    background-size: contain;
+}
+.box-11 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/caramel.jpg);
+    background-size: cover;
+}
+.box-12 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/frose.jpg);
+    background-size: contain;
+}
+.box-13 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/vanilla.jpg);
+    background-size: cover;
+}
+.box-14 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/brownbutter.jpg);
+    background-size: cover;
+}
+.box-15 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/sticky.jpg);
+    background-size: cover;
+}
+.box-16 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/donut.jpg);
+    background-size: cover;
+}
+.box-17 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/sweetcream.jpg);
+    background-size: contain;
+}
+.box-18 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/boston.jpg);
+    background-size: contain;
+}
+.box-19 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/dolly.jpg);
+    background-size: cover;
+}
+.box-20 {
+    border-radius: 20%;
+    height: 4rem;
+    width: 4rem;
+    background-image: url(images/buttermint.jpg);
+    background-size: contain;
+}
+nav {
+    font-size: 80px;
+    display: block;
+    justify-content: center;  
+    list-style-type: none;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    color: rgb(70, 52, 70);
+    font-family: monospace;
+    font-size: 30px;
+    padding: 0;
+    margin-top: -60%;
+    margin-bottom: 0;
+    
+}
+a:hover {
+    color: thistle;
+    background-color: rgb(109, 69, 109);
+    border-radius: 25px;
+    padding: 10px;
+}
